@@ -12,7 +12,7 @@ subprojects{
 
         dependencyManagement{
             imports {
-                mavenBom("org.jetbrains.kotlin:kotlin-bom:1.7.0")
+//                mavenBom("org.jetbrains.kotlin:kotlin-bom:1.7.0")
             }
         }
     }
