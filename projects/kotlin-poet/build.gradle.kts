@@ -1,7 +1,7 @@
-plugins{
+plugins {
     kotlin("jvm") version "1.7.0"
 }
 
-dependencies{
+dependencies {
     implementation("com.squareup:kotlinpoet:1.12.0")
 }

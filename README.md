@@ -3,4 +3,5 @@
 # Poet experiment
 
 Poet API's is being used to dyanamically generate code files.
-It can generate primitive types, reference types and their variants (such as classes, interfaces, enumerated types, anonymous inner classes), fields, methods, parameters, annotations, and Javadocs.
+It can generate primitive types, reference types and their variants (such as classes, interfaces, enumerated types,
+anonymous inner classes), fields, methods, parameters, annotations, and Javadocs.
